@@ -1,0 +1,719 @@
+﻿Date,Enters,Branch,Branch for data blending,Time,Region
+7/8/2026,2,Central,Central,10:00PM,Central
+7/8/2026,0,Clarendon,Clarendon,10:00PM,Flatbush
+7/8/2026,0,Clinton Hill,Clinton Hill,10:00PM,Park Slope
+7/8/2026,0,Coney Island,Coney Island,10:00PM,New Utrecht
+7/8/2026,14,Arlington,Arlington,1:00PM,New Lots
+7/8/2026,28,Washington Irving,Washington Irving,1:00PM,Crown Heights
+7/8/2026,7,Bedford,Bedford,10:00AM,Crown Heights
+7/8/2026,2,Brower Park,Brower Park,10:00AM,Crown Heights
+7/8/2026,9,Crown Heights,Crown Heights,10:00AM,Crown Heights
+7/8/2026,32,Washington Irving,Washington Irving,3:00PM,Crown Heights
+7/8/2026,27,Bedford,Bedford,4:00PM,Crown Heights
+7/8/2026,45,Brower Park,Brower Park,4:00PM,Crown Heights
+7/8/2026,31,Crown Heights,Crown Heights,4:00PM,Crown Heights
+7/8/2026,22,Leonard,Leonard,4:00PM,Crown Heights
+7/8/2026,29,Washington Irving,Washington Irving,4:00PM,Crown Heights
+7/8/2026,44,Bedford,Bedford,5:00PM,Crown Heights
+7/8/2026,43,Brower Park,Brower Park,5:00PM,Crown Heights
+7/8/2026,36,Crown Heights,Crown Heights,5:00PM,Crown Heights
+7/8/2026,25,Leonard,Leonard,5:00PM,Crown Heights
+7/8/2026,25,Washington Irving,Washington Irving,5:00PM,Crown Heights
+7/8/2026,40,Bedford,Bedford,6:00PM,Crown Heights
+7/8/2026,42,Brower Park,Brower Park,6:00PM,Crown Heights
+7/8/2026,40,Crown Heights,Crown Heights,6:00PM,Crown Heights
+7/8/2026,27,Leonard,Leonard,6:00PM,Crown Heights
+7/8/2026,16,Washington Irving,Washington Irving,6:00PM,Crown Heights
+7/8/2026,2,Bedford,Bedford,7:00PM,Crown Heights
+7/8/2026,3,Brower Park,Brower Park,7:00PM,Crown Heights
+7/8/2026,0,Crown Heights,Crown Heights,7:00PM,Crown Heights
+7/8/2026,3,Leonard,Leonard,7:00PM,Crown Heights
+7/8/2026,3,Washington Irving,Washington Irving,7:00PM,Crown Heights
+7/8/2026,0,Bedford,Bedford,8:00PM,Crown Heights
+7/8/2026,0,Brower Park,Brower Park,8:00PM,Crown Heights
+7/8/2026,0,Crown Heights,Crown Heights,8:00PM,Crown Heights
+7/8/2026,3,Washington Irving,Washington Irving,8:00PM,Crown Heights
+7/8/2026,0,Bedford,Bedford,9:00PM,Crown Heights
+7/8/2026,0,Brower Park,Brower Park,9:00PM,Crown Heights
+7/8/2026,0,Crown Heights,Crown Heights,9:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,9:00PM,Crown Heights
+7/8/2026,0,Washington Irving,Washington Irving,9:00PM,Crown Heights
+7/8/2026,32,Rugby,Rugby,12:00PM,Flatbush
+7/8/2026,62,Flatbush,Flatbush,2:00PM,Flatbush
+7/8/2026,35,Flatlands,Flatlands,2:00PM,Flatbush
+7/8/2026,30,Rugby,Rugby,2:00PM,Flatbush
+7/8/2026,43,East Flatbush,East Flatbush,3:00PM,Flatbush
+7/8/2026,40,Flatbush,Flatbush,3:00PM,Flatbush
+7/8/2026,34,Flatlands,Flatlands,3:00PM,Flatbush
+7/8/2026,25,Rugby,Rugby,3:00PM,Flatbush
+7/8/2026,40,Clarendon,Clarendon,4:00PM,Flatbush
+7/8/2026,74,Cortelyou,Cortelyou,4:00PM,Flatbush
+7/8/2026,39,Flatbush,Flatbush,4:00PM,Flatbush
+7/8/2026,38,Flatlands,Flatlands,4:00PM,Flatbush
+7/8/2026,39,Mill Basin,Mill Basin,4:00PM,Flatbush
+7/8/2026,12,Paerdegat,Paerdegat,4:00PM,Flatbush
+7/8/2026,19,Rugby,Rugby,4:00PM,Flatbush
+7/8/2026,14,Clarendon,Clarendon,5:00PM,Flatbush
+7/8/2026,81,Cortelyou,Cortelyou,5:00PM,Flatbush
+7/8/2026,51,East Flatbush,East Flatbush,5:00PM,Flatbush
+7/8/2026,36,Flatbush,Flatbush,5:00PM,Flatbush
+7/8/2026,32,Flatlands,Flatlands,5:00PM,Flatbush
+7/8/2026,31,Mill Basin,Mill Basin,5:00PM,Flatbush
+7/8/2026,19,Paerdegat,Paerdegat,5:00PM,Flatbush
+7/8/2026,35,Rugby,Rugby,5:00PM,Flatbush
+7/8/2026,24,Clarendon,Clarendon,6:00PM,Flatbush
+7/8/2026,97,Cortelyou,Cortelyou,6:00PM,Flatbush
+7/8/2026,29,East Flatbush,East Flatbush,6:00PM,Flatbush
+7/8/2026,57,Flatbush,Flatbush,6:00PM,Flatbush
+7/8/2026,35,Flatlands,Flatlands,6:00PM,Flatbush
+7/8/2026,13,Mill Basin,Mill Basin,6:00PM,Flatbush
+7/8/2026,20,Paerdegat,Paerdegat,6:00PM,Flatbush
+7/8/2026,14,Rugby,Rugby,6:00PM,Flatbush
+7/8/2026,2,Clarendon,Clarendon,7:00PM,Flatbush
+7/8/2026,1,Cortelyou,Cortelyou,7:00PM,Flatbush
+7/8/2026,3,Flatbush,Flatbush,7:00PM,Flatbush
+7/8/2026,1,Flatlands,Flatlands,7:00PM,Flatbush
+7/8/2026,1,Mill Basin,Mill Basin,7:00PM,Flatbush
+7/8/2026,0,Paerdegat,Paerdegat,7:00PM,Flatbush
+7/8/2026,0,Rugby,Rugby,7:00PM,Flatbush
+7/8/2026,0,Clarendon,Clarendon,8:00PM,Flatbush
+7/8/2026,0,Cortelyou,Cortelyou,8:00PM,Flatbush
+7/8/2026,0,East Flatbush,East Flatbush,8:00PM,Flatbush
+7/8/2026,0,Flatbush,Flatbush,8:00PM,Flatbush
+7/8/2026,0,Flatlands,Flatlands,8:00PM,Flatbush
+7/8/2026,0,Mill Basin,Mill Basin,8:00PM,Flatbush
+7/8/2026,0,Paerdegat,Paerdegat,8:00PM,Flatbush
+7/8/2026,0,Rugby,Rugby,8:00PM,Flatbush
+7/8/2026,0,Clarendon,Clarendon,9:00PM,Flatbush
+7/8/2026,0,Cortelyou,Cortelyou,9:00PM,Flatbush
+7/8/2026,0,East Flatbush,East Flatbush,9:00PM,Flatbush
+7/8/2026,0,Flatbush,Flatbush,9:00PM,Flatbush
+7/8/2026,0,Flatlands,Flatlands,9:00PM,Flatbush
+7/8/2026,0,Mill Basin,Mill Basin,9:00PM,Flatbush
+7/8/2026,0,Paerdegat,Paerdegat,9:00PM,Flatbush
+7/8/2026,0,Sheepshead Bay,Sheepshead Bay,10:00PM,Kings Highway
+7/8/2026,56,Kings Bay,Kings Bay,11:00AM,Kings Highway
+7/8/2026,100,Kings Highway,Kings Highway,11:00AM,Kings Highway
+7/8/2026,54,Sheepshead Bay,Sheepshead Bay,11:00AM,Kings Highway
+7/8/2026,49,Kings Bay,Kings Bay,12:00PM,Kings Highway
+7/8/2026,84,Kings Highway,Kings Highway,12:00PM,Kings Highway
+7/8/2026,32,Sheepshead Bay,Sheepshead Bay,12:00PM,Kings Highway
+7/8/2026,40,Kings Bay,Kings Bay,2:00PM,Kings Highway
+7/8/2026,77,Kings Highway,Kings Highway,2:00PM,Kings Highway
+7/8/2026,31,Sheepshead Bay,Sheepshead Bay,2:00PM,Kings Highway
+7/8/2026,27,Kings Bay,Kings Bay,3:00PM,Kings Highway
+7/8/2026,31,Sheepshead Bay,Sheepshead Bay,3:00PM,Kings Highway
+7/8/2026,43,Kings Bay,Kings Bay,4:00PM,Kings Highway
+7/8/2026,34,Sheepshead Bay,Sheepshead Bay,4:00PM,Kings Highway
+7/8/2026,35,Kings Bay,Kings Bay,5:00PM,Kings Highway
+7/8/2026,35,Sheepshead Bay,Sheepshead Bay,5:00PM,Kings Highway
+7/8/2026,44,Kings Bay,Kings Bay,6:00PM,Kings Highway
+7/8/2026,32,Sheepshead Bay,Sheepshead Bay,6:00PM,Kings Highway
+7/8/2026,1,Kings Bay,Kings Bay,7:00PM,Kings Highway
+7/8/2026,1,Sheepshead Bay,Sheepshead Bay,7:00PM,Kings Highway
+7/8/2026,0,Kings Bay,Kings Bay,8:00PM,Kings Highway
+7/8/2026,0,Sheepshead Bay,Sheepshead Bay,8:00PM,Kings Highway
+7/8/2026,0,Kings Bay,Kings Bay,9:00PM,Kings Highway
+7/8/2026,0,Sheepshead Bay,Sheepshead Bay,9:00PM,Kings Highway
+7/8/2026,44,Brower Park,Brower Park,1:00PM,Crown Heights
+7/8/2026,39,Crown Heights,Crown Heights,1:00PM,Crown Heights
+7/8/2026,1,Central,Central,9:00AM,Central
+7/8/2026,83,Central,Central,9:00AM,Central
+7/8/2026,13,Central,Central,9:00PM,Central
+7/8/2026,15,Central,Central,9:00PM,Central
+7/8/2026,111,Cortelyou,Cortelyou,11:00AM,Flatbush
+7/8/2026,52,East Flatbush,East Flatbush,11:00AM,Flatbush
+7/8/2026,15,Flatbush,Flatbush,11:00AM,Flatbush
+7/8/2026,39,Cypress Hills,Cypress Hills,1:00PM,New Lots
+7/8/2026,19,Spring Creek,Spring Creek,1:00PM,New Lots
+7/8/2026,29,Stone Avenue,Stone Avenue,1:00PM,New Lots
+7/8/2026,0,Cypress Hills,Cypress Hills,10:00AM,New Lots
+7/8/2026,22,Saratoga,Saratoga,10:00AM,New Lots
+7/8/2026,2,Spring Creek,Spring Creek,10:00AM,New Lots
+7/8/2026,7,Stone Avenue,Stone Avenue,10:00AM,New Lots
+7/8/2026,0,Arlington,Arlington,10:00PM,New Lots
+7/8/2026,0,Spring Creek,Spring Creek,10:00PM,New Lots
+7/8/2026,0,Stone Avenue,Stone Avenue,10:00PM,New Lots
+7/8/2026,83,Cypress Hills,Cypress Hills,11:00AM,New Lots
+7/8/2026,22,Spring Creek,Spring Creek,11:00AM,New Lots
+7/8/2026,57,Stone Avenue,Stone Avenue,11:00AM,New Lots
+7/8/2026,15,Spring Creek,Spring Creek,12:00PM,New Lots
+7/8/2026,34,Stone Avenue,Stone Avenue,12:00PM,New Lots
+7/8/2026,17,Spring Creek,Spring Creek,2:00PM,New Lots
+7/8/2026,23,Stone Avenue,Stone Avenue,2:00PM,New Lots
+7/8/2026,49,Spring Creek,Spring Creek,3:00PM,New Lots
+7/8/2026,26,Stone Avenue,Stone Avenue,3:00PM,New Lots
+7/8/2026,15,Arlington,Arlington,4:00PM,New Lots
+7/8/2026,22,Central,Central,5:00PM,Central
+7/8/2026,312,Central,Central,5:00PM,Central
+7/8/2026,16,Central,Central,6:00PM,Central
+7/8/2026,338,Central,Central,6:00PM,Central
+7/8/2026,17,Central,Central,7:00PM,Central
+7/8/2026,247,Central,Central,7:00PM,Central
+7/8/2026,13,Central,Central,8:00PM,Central
+7/8/2026,191,Central,Central,8:00PM,Central
+7/8/2026,68,Cortelyou,Cortelyou,1:00PM,Flatbush
+7/8/2026,39,East Flatbush,East Flatbush,1:00PM,Flatbush
+7/8/2026,83,Flatbush,Flatbush,1:00PM,Flatbush
+7/8/2026,41,Flatlands,Flatlands,1:00PM,Flatbush
+7/8/2026,29,Rugby,Rugby,1:00PM,Flatbush
+7/8/2026,6,Clarendon,Clarendon,10:00AM,Flatbush
+7/8/2026,3,Cortelyou,Cortelyou,10:00AM,Flatbush
+7/8/2026,11,East Flatbush,East Flatbush,10:00AM,Flatbush
+7/8/2026,1,Flatbush,Flatbush,10:00AM,Flatbush
+7/8/2026,12,Flatlands,Flatlands,10:00AM,Flatbush
+7/8/2026,11,Paerdegat,Paerdegat,10:00AM,Flatbush
+7/8/2026,2,Rugby,Rugby,10:00AM,Flatbush
+7/8/2026,0,Flatbush,Flatbush,10:00PM,Flatbush
+7/8/2026,0,Flatlands,Flatlands,10:00PM,Flatbush
+7/8/2026,0,Rugby,Rugby,10:00PM,Flatbush
+7/8/2026,76,Adams Street,Adams Street,12:00PM,Park Slope
+7/8/2026,19,Library for Arts & Culture,Library for Arts & Culture,12:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,12:00PM,Park Slope
+7/8/2026,30,Adams Street,Adams Street,2:00PM,Park Slope
+7/8/2026,36,Library for Arts & Culture,Library for Arts & Culture,2:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,2:00PM,Park Slope
+7/8/2026,30,Adams Street,Adams Street,3:00PM,Park Slope
+7/8/2026,166,Brooklyn Heights,Brooklyn Heights,3:00PM,Park Slope
+7/8/2026,19,Library for Arts & Culture,Library for Arts & Culture,3:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,3:00PM,Park Slope
+7/8/2026,32,Adams Street,Adams Street,4:00PM,Park Slope
+7/8/2026,179,Brooklyn Heights,Brooklyn Heights,4:00PM,Park Slope
+7/8/2026,67,Clinton Hill,Clinton Hill,4:00PM,Park Slope
+7/8/2026,26,Library for Arts & Culture,Library for Arts & Culture,4:00PM,Park Slope
+7/8/2026,34,Pacific,Pacific,4:00PM,Park Slope
+7/8/2026,97,Park Slope,Park Slope,4:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,4:00PM,Park Slope
+7/8/2026,38,Adams Street,Adams Street,5:00PM,Park Slope
+7/8/2026,163,Brooklyn Heights,Brooklyn Heights,5:00PM,Park Slope
+7/8/2026,61,Clinton Hill,Clinton Hill,5:00PM,Park Slope
+7/8/2026,12,Library for Arts & Culture,Library for Arts & Culture,5:00PM,Park Slope
+7/8/2026,41,Pacific,Pacific,5:00PM,Park Slope
+7/8/2026,94,Park Slope,Park Slope,5:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,5:00PM,Park Slope
+7/8/2026,64,Adams Street,Adams Street,6:00PM,Park Slope
+7/8/2026,129,Brooklyn Heights,Brooklyn Heights,6:00PM,Park Slope
+7/8/2026,55,Clinton Hill,Clinton Hill,6:00PM,Park Slope
+7/8/2026,5,Library for Arts & Culture,Library for Arts & Culture,6:00PM,Park Slope
+7/8/2026,47,Pacific,Pacific,6:00PM,Park Slope
+7/8/2026,64,Park Slope,Park Slope,6:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,6:00PM,Park Slope
+7/8/2026,3,Adams Street,Adams Street,7:00PM,Park Slope
+7/8/2026,5,Brooklyn Heights,Brooklyn Heights,7:00PM,Park Slope
+7/8/2026,0,Clinton Hill,Clinton Hill,7:00PM,Park Slope
+7/8/2026,0,Library for Arts & Culture,Library for Arts & Culture,7:00PM,Park Slope
+7/8/2026,0,Pacific,Pacific,7:00PM,Park Slope
+7/8/2026,0,Park Slope,Park Slope,7:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,7:00PM,Park Slope
+7/8/2026,0,Adams Street,Adams Street,8:00PM,Park Slope
+7/8/2026,0,Brooklyn Heights,Brooklyn Heights,8:00PM,Park Slope
+7/8/2026,0,Clinton Hill,Clinton Hill,8:00PM,Park Slope
+7/8/2026,0,Library for Arts & Culture,Library for Arts & Culture,8:00PM,Park Slope
+7/8/2026,0,Pacific,Pacific,8:00PM,Park Slope
+7/8/2026,0,Park Slope,Park Slope,8:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,8:00PM,Park Slope
+7/8/2026,0,Adams Street,Adams Street,9:00PM,Park Slope
+7/8/2026,0,Brooklyn Heights,Brooklyn Heights,9:00PM,Park Slope
+7/8/2026,0,Clinton Hill,Clinton Hill,9:00PM,Park Slope
+7/8/2026,0,Library for Arts & Culture,Library for Arts & Culture,9:00PM,Park Slope
+7/8/2026,0,Pacific,Pacific,9:00PM,Park Slope
+7/8/2026,0,Park Slope,Park Slope,9:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,9:00PM,Park Slope
+7/8/2026,28,Central,Central,10:00AM,Central
+7/8/2026,407,Central,Central,10:00AM,Central
+7/8/2026,0,Central,Central,10:00PM,Central
+7/8/2026,24,Central,Central,11:00AM,Central
+7/8/2026,26,Central,Central,12:00PM,Central
+7/8/2026,24,Central,Central,2:00PM,Central
+7/8/2026,15,Central,Central,3:00PM,Central
+7/8/2026,15,Central,Central,4:00PM,Central
+7/8/2026,366,Central,Central,4:00PM,Central
+7/8/2026,50,Flatlands,Flatlands,11:00AM,Flatbush
+7/8/2026,36,Rugby,Rugby,11:00AM,Flatbush
+7/8/2026,43,Flatbush,Flatbush,12:00PM,Flatbush
+7/8/2026,0,Coney Island,Coney Island,9:00PM,New Utrecht
+7/8/2026,0,Dyker,Dyker,9:00PM,New Utrecht
+7/8/2026,0,Fort Hamilton,Fort Hamilton,9:00PM,New Utrecht
+7/8/2026,0,McKinley Park,McKinley Park,9:00PM,New Utrecht
+7/8/2026,0,New Utrecht,New Utrecht,9:00PM,New Utrecht
+7/8/2026,0,Sunset Park,Sunset Park,9:00PM,New Utrecht
+7/8/2026,0,Ulmer Park,Ulmer Park,9:00PM,New Utrecht
+7/8/2026,45,Adams Street,Adams Street,1:00PM,Park Slope
+7/8/2026,50,Clinton Hill,Clinton Hill,1:00PM,Park Slope
+7/8/2026,36,Library for Arts & Culture,Library for Arts & Culture,1:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,1:00PM,Park Slope
+7/8/2026,2,Adams Street,Adams Street,10:00AM,Park Slope
+7/8/2026,34,Brooklyn Heights,Brooklyn Heights,10:00AM,Park Slope
+7/8/2026,3,Clinton Hill,Clinton Hill,10:00AM,Park Slope
+7/8/2026,12,Library for Arts & Culture,Library for Arts & Culture,10:00AM,Park Slope
+7/8/2026,3,Park Slope,Park Slope,10:00AM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,10:00AM,Park Slope
+7/8/2026,0,Adams Street,Adams Street,10:00PM,Park Slope
+7/8/2026,0,Brooklyn Heights,Brooklyn Heights,10:00PM,Park Slope
+7/8/2026,0,Library for Arts & Culture,Library for Arts & Culture,10:00PM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,10:00PM,Park Slope
+7/8/2026,19,Adams Street,Adams Street,11:00AM,Park Slope
+7/8/2026,83,Clinton Hill,Clinton Hill,11:00AM,Park Slope
+7/8/2026,29,Library for Arts & Culture,Library for Arts & Culture,11:00AM,Park Slope
+7/8/2026,0,Walt Whitman,Walt Whitman,11:00AM,Park Slope
+7/8/2026,0,Highlawn,Highlawn,10:00PM,New Utrecht
+7/8/2026,0,McKinley Park,McKinley Park,10:00PM,New Utrecht
+7/8/2026,0,New Utrecht,New Utrecht,10:00PM,New Utrecht
+7/8/2026,0,Sunset Park,Sunset Park,10:00PM,New Utrecht
+7/8/2026,100,Bay Ridge,Bay Ridge,11:00AM,New Utrecht
+7/8/2026,68,Highlawn,Highlawn,11:00AM,New Utrecht
+7/8/2026,120,McKinley Park,McKinley Park,11:00AM,New Utrecht
+7/8/2026,86,New Utrecht,New Utrecht,11:00AM,New Utrecht
+7/8/2026,175,Sunset Park,Sunset Park,11:00AM,New Utrecht
+7/8/2026,72,Bay Ridge,Bay Ridge,12:00PM,New Utrecht
+7/8/2026,34,Highlawn,Highlawn,12:00PM,New Utrecht
+7/8/2026,59,Bay Ridge,Bay Ridge,2:00PM,New Utrecht
+7/8/2026,40,Coney Island,Coney Island,2:00PM,New Utrecht
+7/8/2026,40,Highlawn,Highlawn,2:00PM,New Utrecht
+7/8/2026,107,McKinley Park,McKinley Park,2:00PM,New Utrecht
+7/8/2026,69,New Utrecht,New Utrecht,2:00PM,New Utrecht
+7/8/2026,113,Sunset Park,Sunset Park,2:00PM,New Utrecht
+7/8/2026,34,Coney Island,Coney Island,3:00PM,New Utrecht
+7/8/2026,44,Highlawn,Highlawn,3:00PM,New Utrecht
+7/8/2026,64,McKinley Park,McKinley Park,3:00PM,New Utrecht
+7/8/2026,48,New Utrecht,New Utrecht,3:00PM,New Utrecht
+7/8/2026,75,Sunset Park,Sunset Park,3:00PM,New Utrecht
+7/8/2026,39,Highlawn,Highlawn,4:00PM,New Utrecht
+7/8/2026,43,Highlawn,Highlawn,5:00PM,New Utrecht
+7/8/2026,40,Highlawn,Highlawn,6:00PM,New Utrecht
+7/8/2026,2,Highlawn,Highlawn,7:00PM,New Utrecht
+7/8/2026,0,Highlawn,Highlawn,8:00PM,New Utrecht
+7/8/2026,0,McKinley Park,McKinley Park,8:00PM,New Utrecht
+7/8/2026,0,Highlawn,Highlawn,9:00PM,New Utrecht
+7/8/2026,154,Brooklyn Heights,Brooklyn Heights,1:00PM,Park Slope
+7/8/2026,43,Pacific,Pacific,1:00PM,Park Slope
+7/8/2026,70,Park Slope,Park Slope,1:00PM,Park Slope
+7/8/2026,39,Williamsburgh,Williamsburgh,1:00PM,Park Slope
+7/8/2026,1,Pacific,Pacific,10:00AM,Park Slope
+7/8/2026,1,Williamsburgh,Williamsburgh,10:00AM,Park Slope
+7/8/2026,0,Pacific,Pacific,10:00PM,Park Slope
+7/8/2026,0,Park Slope,Park Slope,10:00PM,Park Slope
+7/8/2026,0,Williamsburgh,Williamsburgh,10:00PM,Park Slope
+7/8/2026,205,Brooklyn Heights,Brooklyn Heights,11:00AM,Park Slope
+7/8/2026,45,Pacific,Pacific,11:00AM,Park Slope
+7/8/2026,172,Park Slope,Park Slope,11:00AM,Park Slope
+7/8/2026,65,Williamsburgh,Williamsburgh,11:00AM,Park Slope
+7/8/2026,25,Williamsburgh,Williamsburgh,12:00PM,Park Slope
+7/8/2026,151,Brooklyn Heights,Brooklyn Heights,2:00PM,Park Slope
+7/8/2026,47,Clinton Hill,Clinton Hill,2:00PM,Park Slope
+7/8/2026,35,Pacific,Pacific,2:00PM,Park Slope
+7/8/2026,64,Park Slope,Park Slope,2:00PM,Park Slope
+7/8/2026,48,Williamsburgh,Williamsburgh,2:00PM,Park Slope
+7/8/2026,58,Clinton Hill,Clinton Hill,3:00PM,Park Slope
+7/8/2026,28,Pacific,Pacific,3:00PM,Park Slope
+7/8/2026,74,Park Slope,Park Slope,3:00PM,Park Slope
+7/8/2026,37,Williamsburgh,Williamsburgh,3:00PM,Park Slope
+7/8/2026,43,Williamsburgh,Williamsburgh,4:00PM,Park Slope
+7/8/2026,23,Williamsburgh,Williamsburgh,5:00PM,Park Slope
+7/8/2026,26,Williamsburgh,Williamsburgh,6:00PM,Park Slope
+7/8/2026,4,Williamsburgh,Williamsburgh,7:00PM,Park Slope
+7/8/2026,0,Williamsburgh,Williamsburgh,8:00PM,Park Slope
+7/8/2026,0,Williamsburgh,Williamsburgh,9:00PM,Park Slope
+7/8/2026,21,Central,Central,1:00PM,Central
+7/8/2026,26,Saratoga,Saratoga,4:00PM,New Lots
+7/8/2026,25,Spring Creek,Spring Creek,4:00PM,New Lots
+7/8/2026,29,Stone Avenue,Stone Avenue,4:00PM,New Lots
+7/8/2026,24,Arlington,Arlington,5:00PM,New Lots
+7/8/2026,34,Cypress Hills,Cypress Hills,5:00PM,New Lots
+7/8/2026,37,Saratoga,Saratoga,5:00PM,New Lots
+7/8/2026,18,Spring Creek,Spring Creek,5:00PM,New Lots
+7/8/2026,24,Stone Avenue,Stone Avenue,5:00PM,New Lots
+7/8/2026,15,Arlington,Arlington,6:00PM,New Lots
+7/8/2026,34,Cypress Hills,Cypress Hills,6:00PM,New Lots
+7/8/2026,33,Saratoga,Saratoga,6:00PM,New Lots
+7/8/2026,14,Spring Creek,Spring Creek,6:00PM,New Lots
+7/8/2026,0,Annex,Annex,8:00PM,
+7/8/2026,0,Annex,Annex,9:00PM,
+7/8/2026,6,Leonard,Leonard,10:00AM,Crown Heights
+7/8/2026,3,Washington Irving,Washington Irving,10:00AM,Crown Heights
+7/8/2026,0,Bedford,Bedford,10:00PM,Crown Heights
+7/8/2026,0,Brower Park,Brower Park,10:00PM,Crown Heights
+7/8/2026,0,Crown Heights,Crown Heights,10:00PM,Crown Heights
+7/8/2026,0,Washington Irving,Washington Irving,10:00PM,Crown Heights
+7/8/2026,51,Brower Park,Brower Park,11:00AM,Crown Heights
+7/8/2026,54,Crown Heights,Crown Heights,11:00AM,Crown Heights
+7/8/2026,17,Leonard,Leonard,11:00AM,Crown Heights
+7/8/2026,19,Washington Irving,Washington Irving,11:00AM,Crown Heights
+7/8/2026,29,Brower Park,Brower Park,12:00PM,Crown Heights
+7/8/2026,37,Crown Heights,Crown Heights,12:00PM,Crown Heights
+7/8/2026,32,Washington Irving,Washington Irving,12:00PM,Crown Heights
+7/8/2026,43,Brower Park,Brower Park,2:00PM,Crown Heights
+7/8/2026,34,Crown Heights,Crown Heights,2:00PM,Crown Heights
+7/8/2026,20,Washington Irving,Washington Irving,2:00PM,Crown Heights
+7/8/2026,27,Bedford,Bedford,3:00PM,Crown Heights
+7/8/2026,35,Brower Park,Brower Park,3:00PM,Crown Heights
+7/8/2026,45,Crown Heights,Crown Heights,3:00PM,Crown Heights
+7/8/2026,0,Rugby,Rugby,9:00PM,Flatbush
+7/8/2026,31,Kings Bay,Kings Bay,1:00PM,Kings Highway
+7/8/2026,89,Kings Highway,Kings Highway,1:00PM,Kings Highway
+7/8/2026,19,Sheepshead Bay,Sheepshead Bay,1:00PM,Kings Highway
+7/8/2026,3,Annex,Annex,11:00AM,
+7/8/2026,11,Annex,Annex,12:00PM,
+7/8/2026,7,Annex,Annex,2:00PM,
+7/8/2026,2,Annex,Annex,3:00PM,
+7/8/2026,2,Annex,Annex,4:00PM,
+7/8/2026,2,Annex,Annex,5:00PM,
+7/8/2026,1,Annex,Annex,6:00PM,
+7/8/2026,0,Annex,Annex,7:00PM,
+7/8/2026,5,Kings Bay,Kings Bay,10:00AM,Kings Highway
+7/8/2026,17,Kings Highway,Kings Highway,10:00AM,Kings Highway
+7/8/2026,24,Sheepshead Bay,Sheepshead Bay,10:00AM,Kings Highway
+7/8/2026,0,Kings Bay,Kings Bay,10:00PM,Kings Highway
+7/8/2026,4,Annex,Annex,1:00PM,
+7/8/2026,1,Annex,Annex,10:00AM,
+7/8/2026,0,Annex,Annex,10:00PM,
+7/8/2026,55,Flatlands,Flatlands,12:00PM,Flatbush
+7/8/2026,38,Stone Avenue,Stone Avenue,6:00PM,New Lots
+7/8/2026,0,Arlington,Arlington,7:00PM,New Lots
+7/8/2026,0,Cypress Hills,Cypress Hills,7:00PM,New Lots
+7/8/2026,2,Saratoga,Saratoga,7:00PM,New Lots
+7/8/2026,3,Spring Creek,Spring Creek,7:00PM,New Lots
+7/8/2026,1,Stone Avenue,Stone Avenue,7:00PM,New Lots
+7/8/2026,0,Arlington,Arlington,8:00PM,New Lots
+7/8/2026,0,Cypress Hills,Cypress Hills,8:00PM,New Lots
+7/8/2026,0,Saratoga,Saratoga,8:00PM,New Lots
+7/8/2026,0,Spring Creek,Spring Creek,8:00PM,New Lots
+7/8/2026,0,Stone Avenue,Stone Avenue,8:00PM,New Lots
+7/8/2026,0,Arlington,Arlington,9:00PM,New Lots
+7/8/2026,0,Cypress Hills,Cypress Hills,9:00PM,New Lots
+7/8/2026,0,Saratoga,Saratoga,9:00PM,New Lots
+7/8/2026,0,Spring Creek,Spring Creek,9:00PM,New Lots
+7/8/2026,0,Stone Avenue,Stone Avenue,9:00PM,New Lots
+7/8/2026,28,Coney Island,Coney Island,1:00PM,New Utrecht
+7/8/2026,25,Dyker,Dyker,1:00PM,New Utrecht
+7/8/2026,23,Fort Hamilton,Fort Hamilton,1:00PM,New Utrecht
+7/8/2026,26,Ulmer Park,Ulmer Park,1:00PM,New Utrecht
+7/8/2026,0,Bay Ridge,Bay Ridge,10:00AM,New Utrecht
+7/8/2026,7,Coney Island,Coney Island,10:00AM,New Utrecht
+7/8/2026,2,Dyker,Dyker,10:00AM,New Utrecht
+7/8/2026,0,Fort Hamilton,Fort Hamilton,10:00AM,New Utrecht
+7/8/2026,33,Sunset Park,Sunset Park,10:00AM,New Utrecht
+7/8/2026,4,Ulmer Park,Ulmer Park,10:00AM,New Utrecht
+7/8/2026,0,Bay Ridge,Bay Ridge,10:00PM,New Utrecht
+7/8/2026,0,Dyker,Dyker,10:00PM,New Utrecht
+7/8/2026,0,Fort Hamilton,Fort Hamilton,10:00PM,New Utrecht
+7/8/2026,0,Ulmer Park,Ulmer Park,10:00PM,New Utrecht
+7/8/2026,30,Coney Island,Coney Island,11:00AM,New Utrecht
+7/8/2026,60,Dyker,Dyker,11:00AM,New Utrecht
+7/8/2026,49,Fort Hamilton,Fort Hamilton,11:00AM,New Utrecht
+7/8/2026,46,Ulmer Park,Ulmer Park,11:00AM,New Utrecht
+7/8/2026,18,Dyker,Dyker,12:00PM,New Utrecht
+7/8/2026,24,Fort Hamilton,Fort Hamilton,12:00PM,New Utrecht
+7/8/2026,34,Ulmer Park,Ulmer Park,12:00PM,New Utrecht
+7/8/2026,40,Dyker,Dyker,2:00PM,New Utrecht
+7/8/2026,33,Fort Hamilton,Fort Hamilton,2:00PM,New Utrecht
+7/8/2026,35,Ulmer Park,Ulmer Park,2:00PM,New Utrecht
+7/8/2026,68,Bay Ridge,Bay Ridge,3:00PM,New Utrecht
+7/8/2026,44,Dyker,Dyker,3:00PM,New Utrecht
+7/8/2026,32,Fort Hamilton,Fort Hamilton,3:00PM,New Utrecht
+7/8/2026,35,Ulmer Park,Ulmer Park,3:00PM,New Utrecht
+7/8/2026,74,Bay Ridge,Bay Ridge,4:00PM,New Utrecht
+7/8/2026,31,Coney Island,Coney Island,4:00PM,New Utrecht
+7/8/2026,64,Dyker,Dyker,4:00PM,New Utrecht
+7/8/2026,35,Fort Hamilton,Fort Hamilton,4:00PM,New Utrecht
+7/8/2026,106,McKinley Park,McKinley Park,4:00PM,New Utrecht
+7/8/2026,59,New Utrecht,New Utrecht,4:00PM,New Utrecht
+7/8/2026,98,Sunset Park,Sunset Park,4:00PM,New Utrecht
+7/8/2026,52,Ulmer Park,Ulmer Park,4:00PM,New Utrecht
+7/8/2026,71,Bay Ridge,Bay Ridge,5:00PM,New Utrecht
+7/8/2026,38,Coney Island,Coney Island,5:00PM,New Utrecht
+7/8/2026,39,Dyker,Dyker,5:00PM,New Utrecht
+7/8/2026,43,Fort Hamilton,Fort Hamilton,5:00PM,New Utrecht
+7/8/2026,97,McKinley Park,McKinley Park,5:00PM,New Utrecht
+7/8/2026,49,New Utrecht,New Utrecht,5:00PM,New Utrecht
+7/8/2026,100,Sunset Park,Sunset Park,5:00PM,New Utrecht
+7/8/2026,23,Ulmer Park,Ulmer Park,5:00PM,New Utrecht
+7/8/2026,46,Bay Ridge,Bay Ridge,6:00PM,New Utrecht
+7/8/2026,12,Coney Island,Coney Island,6:00PM,New Utrecht
+7/8/2026,21,Dyker,Dyker,6:00PM,New Utrecht
+7/8/2026,24,Fort Hamilton,Fort Hamilton,6:00PM,New Utrecht
+7/8/2026,33,McKinley Park,McKinley Park,6:00PM,New Utrecht
+7/8/2026,26,New Utrecht,New Utrecht,6:00PM,New Utrecht
+7/8/2026,66,Sunset Park,Sunset Park,6:00PM,New Utrecht
+7/8/2026,25,Ulmer Park,Ulmer Park,6:00PM,New Utrecht
+7/8/2026,0,Bay Ridge,Bay Ridge,7:00PM,New Utrecht
+7/8/2026,0,Coney Island,Coney Island,7:00PM,New Utrecht
+7/8/2026,0,Dyker,Dyker,7:00PM,New Utrecht
+7/8/2026,0,Fort Hamilton,Fort Hamilton,7:00PM,New Utrecht
+7/8/2026,1,McKinley Park,McKinley Park,7:00PM,New Utrecht
+7/8/2026,0,New Utrecht,New Utrecht,7:00PM,New Utrecht
+7/8/2026,1,Sunset Park,Sunset Park,7:00PM,New Utrecht
+7/8/2026,1,Ulmer Park,Ulmer Park,7:00PM,New Utrecht
+7/8/2026,0,Bay Ridge,Bay Ridge,8:00PM,New Utrecht
+7/8/2026,0,Coney Island,Coney Island,8:00PM,New Utrecht
+7/8/2026,0,Dyker,Dyker,8:00PM,New Utrecht
+7/8/2026,0,Fort Hamilton,Fort Hamilton,8:00PM,New Utrecht
+7/8/2026,0,New Utrecht,New Utrecht,8:00PM,New Utrecht
+7/8/2026,0,Sunset Park,Sunset Park,8:00PM,New Utrecht
+7/8/2026,0,Ulmer Park,Ulmer Park,8:00PM,New Utrecht
+7/8/2026,0,Bay Ridge,Bay Ridge,9:00PM,New Utrecht
+7/8/2026,0,Jamaica Bay,Jamaica Bay,10:00PM,New Lots
+7/8/2026,0,Macon,Macon,10:00PM,New Lots
+7/8/2026,0,Saratoga,Saratoga,10:00PM,New Lots
+7/8/2026,22,Arlington,Arlington,11:00AM,New Lots
+7/8/2026,49,Jamaica Bay,Jamaica Bay,11:00AM,New Lots
+7/8/2026,70,Macon,Macon,11:00AM,New Lots
+7/8/2026,54,Saratoga,Saratoga,11:00AM,New Lots
+7/8/2026,8,Arlington,Arlington,12:00PM,New Lots
+7/8/2026,42,Jamaica Bay,Jamaica Bay,12:00PM,New Lots
+7/8/2026,77,Macon,Macon,12:00PM,New Lots
+7/8/2026,16,Arlington,Arlington,2:00PM,New Lots
+7/8/2026,19,Cypress Hills,Cypress Hills,2:00PM,New Lots
+7/8/2026,25,Jamaica Bay,Jamaica Bay,2:00PM,New Lots
+7/8/2026,21,Macon,Macon,2:00PM,New Lots
+7/8/2026,39,Saratoga,Saratoga,2:00PM,New Lots
+7/8/2026,17,Arlington,Arlington,3:00PM,New Lots
+7/8/2026,35,Cypress Hills,Cypress Hills,3:00PM,New Lots
+7/8/2026,20,Jamaica Bay,Jamaica Bay,3:00PM,New Lots
+7/8/2026,33,Macon,Macon,3:00PM,New Lots
+7/8/2026,43,Saratoga,Saratoga,3:00PM,New Lots
+7/8/2026,35,Cypress Hills,Cypress Hills,4:00PM,New Lots
+7/8/2026,37,Jamaica Bay,Jamaica Bay,4:00PM,New Lots
+7/8/2026,33,Macon,Macon,4:00PM,New Lots
+7/8/2026,40,Jamaica Bay,Jamaica Bay,5:00PM,New Lots
+7/8/2026,27,Macon,Macon,5:00PM,New Lots
+7/8/2026,22,Jamaica Bay,Jamaica Bay,6:00PM,New Lots
+7/8/2026,48,Macon,Macon,6:00PM,New Lots
+7/8/2026,3,Jamaica Bay,Jamaica Bay,7:00PM,New Lots
+7/8/2026,0,Macon,Macon,7:00PM,New Lots
+7/8/2026,0,Jamaica Bay,Jamaica Bay,8:00PM,New Lots
+7/8/2026,0,Macon,Macon,8:00PM,New Lots
+7/8/2026,0,Jamaica Bay,Jamaica Bay,9:00PM,New Lots
+7/8/2026,0,Macon,Macon,9:00PM,New Lots
+7/8/2026,36,Bay Ridge,Bay Ridge,1:00PM,New Utrecht
+7/8/2026,45,Highlawn,Highlawn,1:00PM,New Utrecht
+7/8/2026,117,McKinley Park,McKinley Park,1:00PM,New Utrecht
+7/8/2026,67,New Utrecht,New Utrecht,1:00PM,New Utrecht
+7/8/2026,76,Sunset Park,Sunset Park,1:00PM,New Utrecht
+7/8/2026,5,Highlawn,Highlawn,10:00AM,New Utrecht
+7/8/2026,13,McKinley Park,McKinley Park,10:00AM,New Utrecht
+7/8/2026,11,New Utrecht,New Utrecht,10:00AM,New Utrecht
+7/8/2026,0,DeKalb,Dekalb,8:00PM,Crown Heights
+7/8/2026,0,Greenpoint,Greenpoint,8:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,8:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,8:00PM,Crown Heights
+7/8/2026,0,Marcy,Marcy,8:00PM,Crown Heights
+7/8/2026,3,Marcy,Marcy,9:00AM,Crown Heights
+7/8/2026,0,DeKalb,Dekalb,9:00PM,Crown Heights
+7/8/2026,0,Greenpoint,Greenpoint,9:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,9:00PM,Crown Heights
+7/8/2026,0,Marcy,Marcy,9:00PM,Crown Heights
+7/8/2026,14,Clarendon,Clarendon,1:00PM,Flatbush
+7/8/2026,42,Mill Basin,Mill Basin,1:00PM,Flatbush
+7/8/2026,30,Paerdegat,Paerdegat,1:00PM,Flatbush
+7/8/2026,56,Windsor Terrace,Windsor Terrace,1:00PM,Flatbush
+7/8/2026,6,Mill Basin,Mill Basin,10:00AM,Flatbush
+7/8/2026,16,Windsor Terrace,Windsor Terrace,10:00AM,Flatbush
+7/8/2026,0,Cortelyou,Cortelyou,10:00PM,Flatbush
+7/8/2026,0,East Flatbush,East Flatbush,10:00PM,Flatbush
+7/8/2026,0,Mill Basin,Mill Basin,10:00PM,Flatbush
+7/8/2026,0,Paerdegat,Paerdegat,10:00PM,Flatbush
+7/8/2026,0,Windsor Terrace,Windsor Terrace,10:00PM,Flatbush
+7/8/2026,22,Clarendon,Clarendon,11:00AM,Flatbush
+7/8/2026,58,Mill Basin,Mill Basin,11:00AM,Flatbush
+7/8/2026,32,Paerdegat,Paerdegat,11:00AM,Flatbush
+7/8/2026,58,Windsor Terrace,Windsor Terrace,11:00AM,Flatbush
+7/8/2026,54,Windsor Terrace,Windsor Terrace,12:00PM,Flatbush
+7/8/2026,31,Clarendon,Clarendon,2:00PM,Flatbush
+7/8/2026,82,Cortelyou,Cortelyou,2:00PM,Flatbush
+7/8/2026,38,East Flatbush,East Flatbush,2:00PM,Flatbush
+7/8/2026,54,Mill Basin,Mill Basin,2:00PM,Flatbush
+7/8/2026,29,Paerdegat,Paerdegat,2:00PM,Flatbush
+7/8/2026,46,Windsor Terrace,Windsor Terrace,2:00PM,Flatbush
+7/8/2026,48,Clarendon,Clarendon,3:00PM,Flatbush
+7/8/2026,78,Cortelyou,Cortelyou,3:00PM,Flatbush
+7/8/2026,34,Mill Basin,Mill Basin,3:00PM,Flatbush
+7/8/2026,25,Paerdegat,Paerdegat,3:00PM,Flatbush
+7/8/2026,45,Windsor Terrace,Windsor Terrace,3:00PM,Flatbush
+7/8/2026,42,East Flatbush,East Flatbush,4:00PM,Flatbush
+7/8/2026,100,Windsor Terrace,Windsor Terrace,4:00PM,Flatbush
+7/8/2026,81,Windsor Terrace,Windsor Terrace,5:00PM,Flatbush
+7/8/2026,59,Windsor Terrace,Windsor Terrace,6:00PM,Flatbush
+7/8/2026,3,East Flatbush,East Flatbush,7:00PM,Flatbush
+7/8/2026,2,Windsor Terrace,Windsor Terrace,7:00PM,Flatbush
+7/8/2026,0,Windsor Terrace,Windsor Terrace,8:00PM,Flatbush
+7/8/2026,0,Windsor Terrace,Windsor Terrace,9:00PM,Flatbush
+7/8/2026,54,Brighton Beach,Brighton Beach,1:00PM,Kings Highway
+7/8/2026,41,Gerritsen Beach,Gerritsen Beach,1:00PM,Kings Highway
+7/8/2026,30,Homecrest,Homecrest,1:00PM,Kings Highway
+7/8/2026,31,Kensington,Kensington,1:00PM,Kings Highway
+7/8/2026,33,Ryder,Ryder,1:00PM,Kings Highway
+7/8/2026,5,Brighton Beach,Brighton Beach,10:00AM,Kings Highway
+7/8/2026,3,Gerritsen Beach,Gerritsen Beach,10:00AM,Kings Highway
+7/8/2026,2,Homecrest,Homecrest,10:00AM,Kings Highway
+7/8/2026,1,Kensington,Kensington,10:00AM,Kings Highway
+7/8/2026,5,Ryder,Ryder,10:00AM,Kings Highway
+7/8/2026,0,Brighton Beach,Brighton Beach,10:00PM,Kings Highway
+7/8/2026,0,Gerritsen Beach,Gerritsen Beach,10:00PM,Kings Highway
+7/8/2026,0,Homecrest,Homecrest,10:00PM,Kings Highway
+7/8/2026,0,Kensington,Kensington,10:00PM,Kings Highway
+7/8/2026,0,Kings Highway,Kings Highway,10:00PM,Kings Highway
+7/8/2026,0,Ryder,Ryder,10:00PM,Kings Highway
+7/8/2026,64,Brighton Beach,Brighton Beach,11:00AM,Kings Highway
+7/8/2026,27,Gerritsen Beach,Gerritsen Beach,11:00AM,Kings Highway
+7/8/2026,19,Homecrest,Homecrest,11:00AM,Kings Highway
+7/8/2026,54,Kensington,Kensington,11:00AM,Kings Highway
+7/8/2026,51,Ryder,Ryder,11:00AM,Kings Highway
+7/8/2026,54,Brighton Beach,Brighton Beach,12:00PM,Kings Highway
+7/8/2026,19,Gerritsen Beach,Gerritsen Beach,12:00PM,Kings Highway
+7/8/2026,19,Homecrest,Homecrest,12:00PM,Kings Highway
+7/8/2026,42,Kensington,Kensington,12:00PM,Kings Highway
+7/8/2026,15,Ryder,Ryder,12:00PM,Kings Highway
+7/8/2026,53,Brighton Beach,Brighton Beach,2:00PM,Kings Highway
+7/8/2026,27,Gerritsen Beach,Gerritsen Beach,2:00PM,Kings Highway
+7/8/2026,19,Homecrest,Homecrest,2:00PM,Kings Highway
+7/8/2026,59,Kensington,Kensington,2:00PM,Kings Highway
+7/8/2026,22,Ryder,Ryder,2:00PM,Kings Highway
+7/8/2026,57,Brighton Beach,Brighton Beach,3:00PM,Kings Highway
+7/8/2026,33,Gerritsen Beach,Gerritsen Beach,3:00PM,Kings Highway
+7/8/2026,21,Homecrest,Homecrest,3:00PM,Kings Highway
+7/8/2026,30,Kensington,Kensington,3:00PM,Kings Highway
+7/8/2026,63,Kings Highway,Kings Highway,3:00PM,Kings Highway
+7/8/2026,20,Ryder,Ryder,3:00PM,Kings Highway
+7/8/2026,57,Brighton Beach,Brighton Beach,4:00PM,Kings Highway
+7/8/2026,25,Gerritsen Beach,Gerritsen Beach,4:00PM,Kings Highway
+7/8/2026,30,Homecrest,Homecrest,4:00PM,Kings Highway
+7/8/2026,47,Kensington,Kensington,4:00PM,Kings Highway
+7/8/2026,71,Kings Highway,Kings Highway,4:00PM,Kings Highway
+7/8/2026,17,Ryder,Ryder,4:00PM,Kings Highway
+7/8/2026,56,Brighton Beach,Brighton Beach,5:00PM,Kings Highway
+7/8/2026,19,Gerritsen Beach,Gerritsen Beach,5:00PM,Kings Highway
+7/8/2026,28,Homecrest,Homecrest,5:00PM,Kings Highway
+7/8/2026,48,Kensington,Kensington,5:00PM,Kings Highway
+7/8/2026,69,Kings Highway,Kings Highway,5:00PM,Kings Highway
+7/8/2026,22,Ryder,Ryder,5:00PM,Kings Highway
+7/8/2026,37,Brighton Beach,Brighton Beach,6:00PM,Kings Highway
+7/8/2026,17,Gerritsen Beach,Gerritsen Beach,6:00PM,Kings Highway
+7/8/2026,15,Homecrest,Homecrest,6:00PM,Kings Highway
+7/8/2026,29,Kensington,Kensington,6:00PM,Kings Highway
+7/8/2026,68,Kings Highway,Kings Highway,6:00PM,Kings Highway
+7/8/2026,23,Ryder,Ryder,6:00PM,Kings Highway
+7/8/2026,1,Brighton Beach,Brighton Beach,7:00PM,Kings Highway
+7/8/2026,1,Gerritsen Beach,Gerritsen Beach,7:00PM,Kings Highway
+7/8/2026,4,Homecrest,Homecrest,7:00PM,Kings Highway
+7/8/2026,3,Kensington,Kensington,7:00PM,Kings Highway
+7/8/2026,3,Kings Highway,Kings Highway,7:00PM,Kings Highway
+7/8/2026,1,Ryder,Ryder,7:00PM,Kings Highway
+7/8/2026,1,Brighton Beach,Brighton Beach,8:00PM,Kings Highway
+7/8/2026,0,Gerritsen Beach,Gerritsen Beach,8:00PM,Kings Highway
+7/8/2026,0,Homecrest,Homecrest,8:00PM,Kings Highway
+7/8/2026,0,Kensington,Kensington,8:00PM,Kings Highway
+7/8/2026,0,Kings Highway,Kings Highway,8:00PM,Kings Highway
+7/8/2026,0,Ryder,Ryder,8:00PM,Kings Highway
+7/8/2026,0,Brighton Beach,Brighton Beach,9:00PM,Kings Highway
+7/8/2026,0,Gerritsen Beach,Gerritsen Beach,9:00PM,Kings Highway
+7/8/2026,0,Homecrest,Homecrest,9:00PM,Kings Highway
+7/8/2026,0,Kensington,Kensington,9:00PM,Kings Highway
+7/8/2026,0,Kings Highway,Kings Highway,9:00PM,Kings Highway
+7/8/2026,0,Ryder,Ryder,9:00PM,Kings Highway
+7/8/2026,36,Jamaica Bay,Jamaica Bay,1:00PM,New Lots
+7/8/2026,38,Macon,Macon,1:00PM,New Lots
+7/8/2026,37,Saratoga,Saratoga,1:00PM,New Lots
+7/8/2026,8,Arlington,Arlington,10:00AM,New Lots
+7/8/2026,11,Jamaica Bay,Jamaica Bay,10:00AM,New Lots
+7/8/2026,15,Macon,Macon,10:00AM,New Lots
+7/8/2026,0,Cypress Hills,Cypress Hills,10:00PM,New Lots
+7/8/2026,344,Central,Central,12:00PM,Central
+7/8/2026,8,Leonard,Leonard,12:00PM,Crown Heights
+7/8/2026,10,Clarendon,Clarendon,12:00PM,Flatbush
+7/8/2026,74,Cortelyou,Cortelyou,12:00PM,Flatbush
+7/8/2026,35,East Flatbush,East Flatbush,12:00PM,Flatbush
+7/8/2026,40,Mill Basin,Mill Basin,12:00PM,Flatbush
+7/8/2026,16,Paerdegat,Paerdegat,12:00PM,Flatbush
+7/8/2026,41,Cypress Hills,Cypress Hills,12:00PM,New Lots
+7/8/2026,24,Saratoga,Saratoga,12:00PM,New Lots
+7/8/2026,24,Coney Island,Coney Island,12:00PM,New Utrecht
+7/8/2026,86,McKinley Park,McKinley Park,12:00PM,New Utrecht
+7/8/2026,57,New Utrecht,New Utrecht,12:00PM,New Utrecht
+7/8/2026,175,Sunset Park,Sunset Park,12:00PM,New Utrecht
+7/8/2026,119,Brooklyn Heights,Brooklyn Heights,12:00PM,Park Slope
+7/8/2026,84,Clinton Hill,Clinton Hill,12:00PM,Park Slope
+7/8/2026,22,Pacific,Pacific,12:00PM,Park Slope
+7/8/2026,76,Park Slope,Park Slope,12:00PM,Park Slope
+7/8/2026,11,Red Hook,Red Hook Interim,1:00PM,
+7/8/2026,6,Red Hook,Red Hook Interim,10:00AM,
+7/8/2026,0,Red Hook,Red Hook Interim,10:00PM,
+7/8/2026,15,Red Hook,Red Hook Interim,11:00AM,
+7/8/2026,11,Red Hook,Red Hook Interim,12:00PM,
+7/8/2026,13,Red Hook,Red Hook Interim,2:00PM,
+7/8/2026,5,Red Hook,Red Hook Interim,3:00PM,
+7/8/2026,5,Red Hook,Red Hook Interim,4:00PM,
+7/8/2026,9,Red Hook,Red Hook Interim,5:00PM,
+7/8/2026,2,Red Hook,Red Hook Interim,6:00PM,
+7/8/2026,0,Red Hook,Red Hook Interim,7:00PM,
+7/8/2026,0,Red Hook,Red Hook Interim,8:00PM,
+7/8/2026,0,Red Hook,Red Hook Interim,9:00PM,
+7/8/2026,20,Center for Brooklyn History,Center for Brooklyn History,1:00PM,Center for Brooklyn History
+7/8/2026,1,Center for Brooklyn History,Center for Brooklyn History,10:00AM,Center for Brooklyn History
+7/8/2026,0,Center for Brooklyn History,Center for Brooklyn History,10:00PM,Center for Brooklyn History
+7/8/2026,16,Center for Brooklyn History,Center for Brooklyn History,11:00AM,Center for Brooklyn History
+7/8/2026,12,Center for Brooklyn History,Center for Brooklyn History,12:00PM,Center for Brooklyn History
+7/8/2026,23,Center for Brooklyn History,Center for Brooklyn History,2:00PM,Center for Brooklyn History
+7/8/2026,22,Center for Brooklyn History,Center for Brooklyn History,3:00PM,Center for Brooklyn History
+7/8/2026,23,Center for Brooklyn History,Center for Brooklyn History,4:00PM,Center for Brooklyn History
+7/8/2026,8,Center for Brooklyn History,Center for Brooklyn History,5:00PM,Center for Brooklyn History
+7/8/2026,7,Center for Brooklyn History,Center for Brooklyn History,6:00PM,Center for Brooklyn History
+7/8/2026,0,Center for Brooklyn History,Center for Brooklyn History,7:00PM,Center for Brooklyn History
+7/8/2026,0,Center for Brooklyn History,Center for Brooklyn History,8:00PM,Center for Brooklyn History
+7/8/2026,0,Center for Brooklyn History,Center for Brooklyn History,9:00PM,Center for Brooklyn History
+7/8/2026,285,Central,Central,1:00PM,Central
+7/8/2026,325,Central,Central,11:00AM,Central
+7/8/2026,405,Central,Central,2:00PM,Central
+7/8/2026,372,Central,Central,3:00PM,Central
+7/8/2026,35,Bedford,Bedford,1:00PM,Crown Heights
+7/8/2026,52,DeKalb,Dekalb,1:00PM,Crown Heights
+7/8/2026,98,Greenpoint,Greenpoint,1:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,1:00PM,Crown Heights
+7/8/2026,24,Leonard,Leonard,1:00PM,Crown Heights
+7/8/2026,40,Marcy,Marcy,1:00PM,Crown Heights
+7/8/2026,10,DeKalb,Dekalb,10:00AM,Crown Heights
+7/8/2026,1,Greenpoint,Greenpoint,10:00AM,Crown Heights
+7/8/2026,0,Leonard,Leonard,10:00AM,Crown Heights
+7/8/2026,5,Marcy,Marcy,10:00AM,Crown Heights
+7/8/2026,0,DeKalb,Dekalb,10:00PM,Crown Heights
+7/8/2026,0,Greenpoint,Greenpoint,10:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,10:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,10:00PM,Crown Heights
+7/8/2026,0,Marcy,Marcy,10:00PM,Crown Heights
+7/8/2026,75,Bedford,Bedford,11:00AM,Crown Heights
+7/8/2026,48,DeKalb,Dekalb,11:00AM,Crown Heights
+7/8/2026,105,Greenpoint,Greenpoint,11:00AM,Crown Heights
+7/8/2026,0,Leonard,Leonard,11:00AM,Crown Heights
+7/8/2026,84,Marcy,Marcy,11:00AM,Crown Heights
+7/8/2026,37,Bedford,Bedford,12:00PM,Crown Heights
+7/8/2026,31,DeKalb,Dekalb,12:00PM,Crown Heights
+7/8/2026,77,Greenpoint,Greenpoint,12:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,12:00PM,Crown Heights
+7/8/2026,28,Marcy,Marcy,12:00PM,Crown Heights
+7/8/2026,36,Bedford,Bedford,2:00PM,Crown Heights
+7/8/2026,39,DeKalb,Dekalb,2:00PM,Crown Heights
+7/8/2026,80,Greenpoint,Greenpoint,2:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,2:00PM,Crown Heights
+7/8/2026,33,Leonard,Leonard,2:00PM,Crown Heights
+7/8/2026,35,Marcy,Marcy,2:00PM,Crown Heights
+7/8/2026,46,DeKalb,Dekalb,3:00PM,Crown Heights
+7/8/2026,75,Greenpoint,Greenpoint,3:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,3:00PM,Crown Heights
+7/8/2026,25,Leonard,Leonard,3:00PM,Crown Heights
+7/8/2026,44,Marcy,Marcy,3:00PM,Crown Heights
+7/8/2026,43,DeKalb,Dekalb,4:00PM,Crown Heights
+7/8/2026,88,Greenpoint,Greenpoint,4:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,4:00PM,Crown Heights
+7/8/2026,29,Marcy,Marcy,4:00PM,Crown Heights
+7/8/2026,32,DeKalb,Dekalb,5:00PM,Crown Heights
+7/8/2026,90,Greenpoint,Greenpoint,5:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,5:00PM,Crown Heights
+7/8/2026,24,Marcy,Marcy,5:00PM,Crown Heights
+7/8/2026,30,DeKalb,Dekalb,6:00PM,Crown Heights
+7/8/2026,90,Greenpoint,Greenpoint,6:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,6:00PM,Crown Heights
+7/8/2026,16,Marcy,Marcy,6:00PM,Crown Heights
+7/8/2026,1,DeKalb,Dekalb,7:00PM,Crown Heights
+7/8/2026,4,Greenpoint,Greenpoint,7:00PM,Crown Heights
+7/8/2026,0,Leonard,Leonard,7:00PM,Crown Heights
+7/8/2026,1,Marcy,Marcy,7:00PM,Crown Heights
